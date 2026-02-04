@@ -94,3 +94,7 @@ Required API keys (see .env.example):
 - All agents run with `verbose=True` for debugging
 - The application filters out empty/null values from scraped data
 - Python 3.10 is specified in Pipfile
+
+## Personnel info
+
+- i like pizza
